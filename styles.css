@@ -1,0 +1,29 @@
+.hero h1{
+    color: lightseagreen;
+}
+
+nav > * {
+    color: darkgreen;
+    font-weight: bold;
+}
+
+.hero .continue-btn {
+    border: 3px solid purple;
+    padding: 10px 35px;
+}
+
+div.blog-post:first-of-type {
+    background-color: aliceblue;
+}
+
+.blog-post hr:first-of-type {
+    background-color: red;
+}
+
+.archive ol:first-of-type li > a{
+    color: yellow;
+}
+
+.blog-post:nth-of-type(2) .author {
+    background-color: aqua;
+}
